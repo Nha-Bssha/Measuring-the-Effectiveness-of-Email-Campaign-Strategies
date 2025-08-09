@@ -1,7 +1,7 @@
 # Measuring-the-Effectiveness-of-Email-Campaign-Strategies
 
-## - I conducted an analysis of the performance of several email marketing campaigns (open rates, clicks, conversions) using SQL, Python, and Power BI, to demonstrate my ability to identify the optimal time windows to maximize marketing impact
-## - J'ai mené une analyse sur les performances de plusieurs campagnes emailing (ouverture, clics, conversions) en utilisant SQL, Python et Power BI, afin de montrer que je peux identifier les meilleures fenêtres de tir pour maximiser l'impact marketing.
+## 📊🎯I conducted an analysis of the performance of several email marketing campaigns (open rates, clicks, conversions) using SQL, Python, and Power BI, to demonstrate my ability to identify the optimal time windows to maximize marketing impact
+## 📊🎯J'ai mené une analyse sur les performances de plusieurs campagnes emailing (ouverture, clics, conversions) en utilisant SQL, Python et Power BI, afin de montrer que je peux identifier les meilleures fenêtres de tir pour maximiser l'impact marketing.
 
 #### EN version
 Email Marketing Campaign Analysis
